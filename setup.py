@@ -5,7 +5,7 @@ version = '1.1dev'
 
 setup(name='plonetheme.flowerbuds',
       version=version,
-      description="",
+      description="An installable Diazo theme for Plone 4.1 or higher",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
@@ -28,7 +28,7 @@ setup(name='plonetheme.flowerbuds',
         "Topic :: Internet",
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
-      keywords='',
+      keywords='web zope plone theme diazo',
       author='JeanMichel FRANCOIS aka toutpt',
       author_email='toutpt@gmail.com',
       url='http://plone.org/products/plonetheme.flowerbuds',
