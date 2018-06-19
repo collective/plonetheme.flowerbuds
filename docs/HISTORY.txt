@@ -4,6 +4,8 @@ Changelog
 1.1 (unreleased)
 ----------------
 
+- Updated description value for the setuptools metadata [macagua]
+
 - Added improvements about README file [macagua]
 
 - Added Diazo theme zip file [macagua]

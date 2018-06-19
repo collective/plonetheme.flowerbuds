@@ -5,7 +5,7 @@ version = '1.1dev'
 
 setup(name='plonetheme.flowerbuds',
       version=version,
-      description="Flowerbuds, is an installable Diazo theme for Plone 4",
+      description="Flower buds, is an installable Diazo theme for Plone 4",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
