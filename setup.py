@@ -7,7 +7,7 @@ setup(name='plonetheme.flowerbuds',
       version=version,
       description="Flower buds, is an installable Diazo theme for Plone 4",
       long_description=open("README.rst").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+                       open("CHANGES.txt").read(),
       # Get more strings from
       # https://pypi.org/pypi?:action=list_classifiers
       classifiers=[
